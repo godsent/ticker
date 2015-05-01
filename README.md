@@ -1,5 +1,5 @@
-# ticker
-Ticker for RPG Maker VX ACE
+# Ticker for RPG Maker VX ACE
+
 
 ###Назначение
 
